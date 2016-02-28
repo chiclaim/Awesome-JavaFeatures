@@ -51,7 +51,7 @@ public class LambdaSimple {
 		}
 	}
 
-	void printList(List<String> arr) {
+	public static void printList(List<String> arr) {
 		for (String string : arr) {
 			System.out.println(string);
 		}

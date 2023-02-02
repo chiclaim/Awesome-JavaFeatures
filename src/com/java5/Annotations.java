@@ -12,6 +12,9 @@ import static java.lang.annotation.ElementType.*;
 /**
  * 注解
  *
+ * 更多关于注解的内容可以查看我的：https://www.bilibili.com/video/BV1c3411w77q/
+ *
+ *
  * - SuppressWarnings
  * - Deprecated
  * - Override

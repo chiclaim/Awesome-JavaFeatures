@@ -1,3 +1,3 @@
 ## Awesome-JavaFeatures
 
-从 Java7 开始各版本的新特性
+从 Java5 到 Java20 各版本的新特性，持续更新中...
